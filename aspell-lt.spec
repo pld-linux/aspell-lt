@@ -1,5 +1,5 @@
 Summary:	Lithuanian dictionary for aspell
-Summary(pl):	S≥ownik litewski dla aspella
+Summary(pl.UTF-8):   S≈Çownik litewski dla aspella
 Name:		aspell-lt
 Version:	1.1
 %define	subv	0
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Lithuanian dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik litewski (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik litewski (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n aspell6-lt-%{version}+%{addv}-%{subv}
