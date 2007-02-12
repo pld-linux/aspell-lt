@@ -1,5 +1,5 @@
 Summary:	Lithuanian dictionary for aspell
-Summary(pl.UTF-8):   Słownik litewski dla aspella
+Summary(pl.UTF-8):	Słownik litewski dla aspella
 Name:		aspell-lt
 Version:	1.1
 %define	subv	0
